@@ -10,7 +10,7 @@ through the use of social media platforms such as Youtube, TikTok, Twitter.</br>
 **Refund and dispute policy:** </br>
 In compliance with the distribution platform used to provide Video Games, </br>
 refunds and disputes must be handled through said platforms. </br>
-Example: A game release on the Google Play Store under Sho_GD, complies with</br>
+Example: A game release on the Google Play Store under Sho_GD, </br> complies with
 the Play Store's refund and dispute policy, however Sho_GD will not be able to provide the refund themselves.</br>
 Please refer to that Store front's customer support for any enquiries.</br>
 
